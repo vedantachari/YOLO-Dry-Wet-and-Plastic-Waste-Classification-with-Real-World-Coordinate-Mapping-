@@ -1,4 +1,4 @@
-# YOLOKeyCoords: Computer Vision to Robot Coordinates Bridge
+# Dry-Wet-Plastic Waste Classifier with Real World Coordinate Mapping
 
 A powerful, user-friendly GUI tool that bridges the gap between 2D object detection and 3D robotic control. 
 
