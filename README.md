@@ -2,7 +2,7 @@
 
 A powerful, user-friendly GUI tool that bridges the gap between 2D object detection and 3D robotic control. 
 
-**YOLOKeyCoords** allows you to load custom YOLOv8 models, perform real-time object detection, calibrate your camera, and instantly transform 2D pixel detections into 3D World Coordinates, Robot Joint Angles (IK), or ROS Poses.
+**YOLOKeyCoords** allows you to load custom YOLOv8 models, perform real-time object detection, calibrate your camera, and instantly transform 2D pixel detections into 3D World Coordinates, Robot Joint Angles (IK).
 
 ## Demo
 [https://github.com/vedantachari/YOLO-Dry-Wet-and-Plastic-Waste-Classification-with-Real-World-Coordinate-Mapping-/issues/1#issue-3760290705](https://github.com/user-attachments/assets/2a80da31-30dd-413a-b8a6-2d5dce5fbfb3)
